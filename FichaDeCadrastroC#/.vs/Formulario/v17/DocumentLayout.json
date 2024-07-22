@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\FichaDeCadrastroC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F0AA-9CA3-447D-959C-E42A229F6BB3}|Formulario\\Formulario.csproj|D:\\Projetos\\FichaDeCadrastroC#\\formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F0AA-9CA3-447D-959C-E42A229F6BB3}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F0AA-9CA3-447D-959C-E42A229F6BB3}|Formulario\\Formulario.csproj|d:\\projetos\\fichadecadrastroc#\\formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F0AA-9CA3-447D-959C-E42A229F6BB3}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F0AA-9CA3-447D-959C-E42A229F6BB3}|Formulario\\Formulario.csproj|D:\\Projetos\\FichaDeCadrastroC#\\formulario\\funcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F0AA-9CA3-447D-959C-E42A229F6BB3}|Formulario\\Formulario.csproj|solutionrelative:formulario\\funcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcoes.cs",
+              "DocumentMoniker": "D:\\Projetos\\FichaDeCadrastroC#\\Formulario\\Funcoes.cs",
+              "RelativeDocumentMoniker": "Formulario\\Funcoes.cs",
+              "ToolTip": "D:\\Projetos\\FichaDeCadrastroC#\\Formulario\\Funcoes.cs",
+              "RelativeToolTip": "Formulario\\Funcoes.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA0wDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:06:59.524Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projetos\\FichaDeCadrastroC#\\Formulario\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form1.cs",
+              "ToolTip": "D:\\Projetos\\FichaDeCadrastroC#\\Formulario\\Form1.cs",
+              "RelativeToolTip": "Formulario\\Form1.cs",
+              "ViewState": "AQIAADgBAAAAAAAAAAAAwEQBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:58:57.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos\\FichaDeCadrastroC#\\Formulario\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form1.cs",
+              "ToolTip": "D:\\Projetos\\FichaDeCadrastroC#\\Formulario\\Form1.cs [Design]",
+              "RelativeToolTip": "Formulario\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:58:47.109Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
